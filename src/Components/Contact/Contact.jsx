@@ -15,7 +15,7 @@ const Contact = () => {
       setResult("Sending....");
       const formData = new FormData(event.target);
 
-      // ------Enter your web3forms access key below-------
+      
       
       formData.append("access_key", "dcb0873f-c4ef-4fa8-9889-4ae92ca13701");
   
